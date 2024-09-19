@@ -1,0 +1,4 @@
+RewriteEngine on
+deny from all # DİZİNE TÜM ERİŞİMİ KAPATMA
+# BEGIN Error Pages
+# END Error Pages
